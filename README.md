@@ -11,7 +11,8 @@ Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe. 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,nestjs)](https://skillicons.dev)
 
 
-![RyllerF GitHub stats](https://github-readme-stats.vercel.app/api?username=RyllerF&show_icons=true&theme=gruvbox)
+
+![Ryller Fonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=ryllerf&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
