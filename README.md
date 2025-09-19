@@ -26,4 +26,4 @@ Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe. 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/l](https://www.linkedin.com/in/ryller-fonseca-13164b223))
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Ryller_)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:ryllerfonseca4@gmail.com)
+
