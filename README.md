@@ -25,7 +25,9 @@ Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe. 
   Aplicativo de lista de tarefas desenvolvido com foco em usabilidade e design limpo.  
   Tecnologias: **React, Tailwind CSS**
 
-  [![Preview do ToDo App](./assets/Todo-app.png)](https://todo-app-self-ten-48.vercel.app)
+    <a href="https://todo-app-self-ten-48.vercel.app" target="_blank">
+    <img src="./assets/Todo-app.png" alt="Preview do ToDo App" width="400"/>
+  </a>
 
 ### Social
 
