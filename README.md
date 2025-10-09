@@ -8,7 +8,7 @@ Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe. 
 
 ###  Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,nestjs,react,next)](https://skillicons.dev)
 
 
 
