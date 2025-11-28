@@ -21,6 +21,28 @@ Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe. 
 
 ### 🚀 Projetos
 
+- [**CRUD de usuários**](https://crud-gerenciar-de-usuarios-git-main-ryllerfonsecas-projects.vercel.app)  
+
+  Aplicação de um gerenciador de usuários. O sistema realiza as funções de um CRUD (CREATE, READ, UPDATE, DELETE) utilizando fullstack com integração no banco de dados.
+
+
+  Funcionalides: Criação, listagem, atualização de dados e exclusão de usuários de forma integrada com o banco de dados.
+  
+  Tecnologias Utilizadas:
+  Frontend com Next, React, Tailwind e TypeScript.
+  Backend com Node, Express para APi rest e Prisma ORM.
+  Banco de dados com MongoDB.
+
+  Deploy com Render para o back e Vercel para o front
+  
+  <a href="https://crud-gerenciar-de-usuarios-git-main-ryllerfonsecas-projects.vercel.app">
+  <img src="./assets/crud.png" alt="Preview do crud" width="400"/>
+
+  
+</a>
+
+
+
 
 - [**Agency-ai**](https://agency-ai-six-lovat.vercel.app/#)                      
   Landing page completa para agência digital com design moderno, sistema de tema claro/escuro dinâmico, animações fluidas ao scroll e formulário de contato integrado. Desenvolvido com foco em experiência do usuário e performance.                
