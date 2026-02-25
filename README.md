@@ -12,13 +12,6 @@ Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe. 
 
 
 
-![Ryller Fonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=ryllerf&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-
-
 ### 🚀 Projetos
 
 - [**CRUD de usuários**](https://crud-gerenciar-de-usuarios-git-main-ryllerfonsecas-projects.vercel.app)  
