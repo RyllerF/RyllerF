@@ -30,7 +30,7 @@ Busco oportunidades de estágio em **Análise de Dados** e **Desenvolvimento Bac
 
 ### 🚀 Projetos
 
-- [**Dashboard de Marketing (Power BI)**](https://raw.githubusercontent.com/RyllerF/dashboard-marketing/refs/heads/main/analise-marketing/img/VisaoCampanhas.png)
+- [**Dashboard de Marketing (Power BI)**](https://github.com/RyllerF/dashboard-marketing)
 
   Análise de campanhas de marketing com foco em conversão, segmentação de clientes e comportamento de consumo. Projeto orientado à geração de insights para tomada de decisão.
 
@@ -45,7 +45,7 @@ Busco oportunidades de estágio em **Análise de Dados** e **Desenvolvimento Bac
 
   **Tecnologias:** Power BI, DAX  
 
-  <img src="./assets/dashboard-marketing.png" alt="Preview do dashboard de marketing" width="400"/>
+  <img src="./assets/VisaoCampanhas.png" alt="Preview do dashboard de marketing" width="400"/>
 
 ---
 
