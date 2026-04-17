@@ -1,66 +1,100 @@
 # Ryller Fonseca
 
-**`FullStack Developer`**
+**`Data Analyst | SQL • Python • ETL | Backend Developer`**
 
-Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe. Tenho foco no desenvolvimento web, especialmente com JavaScript, TypeScript, React e Tailwind CSS. Gosto de criar soluções modernas, práticas e bem estruturadas, sempre buscando boas práticas de código e aprendizado contínuo
+Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe, com foco em análise de dados e desenvolvimento backend. Tenho interesse em transformar dados em insights por meio de análise exploratória, modelagem e visualização com Power BI.
+
+Possuo experiência com manipulação de dados, criação de dashboards, definição de métricas e uso de DAX para análise de indicadores. Também desenvolvo aplicações backend utilizando Node.js e TypeScript, integrando APIs e banco de dados.
+
+Busco oportunidades de estágio em **Análise de Dados** e **Desenvolvimento Backend**.
 
 ---
 
-###  Linguagens
+### 🧠 Data Skills
+- Análise Exploratória de Dados (EDA)  
+- SQL (consultas, joins, agregações)  
+- Python para análise de dados (Pandas, NumPy)  
+- ETL (Extração, Transformação e Carga de dados)  
+- Modelagem de Dados  
+- Criação de Dashboards  
+- DAX (Data Analysis Expressions)  
+- Definição de KPIs  
+
+---
+
+### 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,nestjs,react,next)](https://skillicons.dev)
 
-
+---
 
 ### 🚀 Projetos
 
+- [**Dashboard de Marketing (Power BI)**](https://raw.githubusercontent.com/RyllerF/dashboard-marketing/refs/heads/main/analise-marketing/img/VisaoCampanhas.png)
+
+  Análise de campanhas de marketing com foco em conversão, segmentação de clientes e comportamento de consumo. Projeto orientado à geração de insights para tomada de decisão.
+
+  **Destaques do projeto:**
+  - Análise de conversão de campanhas  
+  - Segmentação por perfil demográfico (renda, estado civil, filhos)  
+  - Relação entre renda e gasto  
+  - Análise por canais de compra e países  
+
+  **Técnicas aplicadas:**  
+  EDA, modelagem de dados, criação de KPIs e dashboards interativos  
+
+  **Tecnologias:** Power BI, DAX  
+
+  <img src="./assets/dashboard-marketing.png" alt="Preview do dashboard de marketing" width="400"/>
+
+---
+
 - [**CRUD de usuários**](https://crud-gerenciar-de-usuarios-git-main-ryllerfonsecas-projects.vercel.app)  
 
-  Aplicação de um gerenciador de usuários. O sistema realiza as funções de um CRUD (CREATE, READ, UPDATE, DELETE) utilizando fullstack com integração no banco de dados.
+  Aplicação fullstack com integração a banco de dados, explorando operações CRUD e estruturação de APIs.
 
+  **Tecnologias:**  
+  Node.js, Express, Prisma ORM, MongoDB, React, Next.js, TypeScript  
 
-  Funcionalides: Criação, listagem, atualização de dados e exclusão de usuários de forma integrada com o banco de dados.
-  
-  Tecnologias Utilizadas:
-  Frontend com Next, React, Tailwind e TypeScript.
-  Backend com Node, Express para APi rest e Prisma ORM.
-  Banco de dados com MongoDB.
-
-  Deploy com Render para o back e Vercel para o front
-  
   <a href="https://crud-gerenciar-de-usuarios-git-main-ryllerfonsecas-projects.vercel.app">
   <img src="./assets/crud.png" alt="Preview do crud" width="400"/>
-
-  
 </a>
 
+---
 
+- [**Agency-ai**](https://agency-ai-six-lovat.vercel.app/#)  
 
+  Landing page moderna com foco em experiência do usuário e performance.
 
-- [**Agency-ai**](https://agency-ai-six-lovat.vercel.app/#)                      
-  Landing page completa para agência digital com design moderno, sistema de tema claro/escuro dinâmico, animações fluidas ao scroll e formulário de contato integrado. Desenvolvido com foco em experiência do usuário e performance.                
-  Tecnologias: **React, Tailwind CSS, Motion (Framer Motion), React Hot Toast**                                                                                   
-  Principais funcionalidades:                                                                                    
-  🌓 Dark Mode: Alternância entre tema claro e escuro com persistência no localStorage                                                           
-  ✨ Animações: Transições suaves com Motion (scroll animations, fade-in, stagger effects)                                     
-  📧 Formulário de Contato: Integração com Web3Forms e notificações em tempo real via React Hot Toast
+  **Tecnologias:** React, Tailwind CSS, Framer Motion  
 
   <a href="https://agency-ai-six-lovat.vercel.app/#" target="_blank">
   <img src="./assets/agency-ai.png" alt="Preview do agency-ai" width="400"/>
 </a>
 
-
+---
 
 - [**ToDo App**](https://todo-app-self-ten-48.vercel.app)  
-  Aplicativo de lista de tarefas desenvolvido com foco em usabilidade e design limpo.  
-  Tecnologias: **React, Tailwind CSS**
 
-    <a href="https://todo-app-self-ten-48.vercel.app" target="_blank">
-    <img src="./assets/Todo-app.png" alt="Preview do ToDo App" width="400"/>
+  Aplicação de lista de tarefas com foco em usabilidade e interface.
+
+  **Tecnologias:** React, Tailwind CSS  
+
+  <a href="https://todo-app-self-ten-48.vercel.app" target="_blank">
+  <img src="./assets/Todo-app.png" alt="Preview do ToDo App" width="400"/>
   </a>
+
+---
+
+### 📊 Diferenciais
+- Capacidade de transformar dados em insights acionáveis  
+- Experiência prática com dashboards e análise de métricas  
+- Conhecimento em backend para integração com dados  
+- Perfil analítico com foco em tomada de decisão  
+
+---
 
 ### Social
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/l](https://www.linkedin.com/in/ryller-fonseca-13164b223))
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryller-fonseca-13164b223)  
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Ryller_)
-
