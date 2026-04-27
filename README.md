@@ -30,6 +30,27 @@ Busco oportunidades de estágio em **Análise de Dados** e **Desenvolvimento Bac
 
 ### 🚀 Projetos
 
+- [**ETL Pipeline — Olist E-Commerce**](https://github.com/RyllerF/olist-ecommerce-etl)
+
+  Pipeline ETL completo sobre o dataset público de e-commerce da Olist, processando ~100k pedidos reais do mercado brasileiro. Transforma 9 arquivos CSV brutos em um banco de dados analítico estruturado em camadas **Raw → Staging → Mart**.
+
+  **Destaques do projeto:**
+  - Arquitetura em camadas com separação clara de responsabilidades (Extract, Transform, Load, Validate)
+  - Tabela fato `fct_sales` com métricas derivadas: tempo de entrega, flag de prazo, faturamento por item
+  - Dimensões analíticas: clientes, produtos e vendedores com tradução de categorias PT→EN
+  - 11 checks automáticos de qualidade de dados pós-carga (volumetria, nulos, integridade referencial)
+  - Logging estruturado com rotação de arquivo para rastreabilidade em produção
+
+  **Resultados:**  
+  R$ 13,5 milhões processados · 92,1% de entregas no prazo · 112.650 itens em ~25s
+
+  **Técnicas aplicadas:**  
+  Modelagem dimensional (Star Schema), ETL, qualidade de dados, indexação SQL, idempotência de pipeline
+
+  **Tecnologias:** Python, Pandas, SQLAlchemy, SQLite, Loguru
+
+---
+
 - [**Dashboard de Marketing (Power BI)**](https://github.com/RyllerF/dashboard-marketing)
 
   Análise de campanhas de marketing com foco em conversão, segmentação de clientes e comportamento de consumo. Projeto orientado à geração de insights para tomada de decisão.
