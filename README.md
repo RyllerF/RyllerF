@@ -49,6 +49,8 @@ Busco oportunidades de estágio em **Análise de Dados** e **Desenvolvimento Bac
 
   **Tecnologias:** Python, Pandas, SQLAlchemy, SQLite, Loguru
 
+  📊 [Ver análise exploratória completa (EDA)](https://github.com/RyllerF/olist-ecommerce-etl/blob/main/notebooks/eda_olist.ipynb)
+
 ---
 
 - [**Dashboard de Marketing (Power BI)**](https://github.com/RyllerF/dashboard-marketing)
