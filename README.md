@@ -2,29 +2,32 @@
 
 **`Data Analyst | SQL • Python • ETL | Backend Developer`**
 
-Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe, com foco em análise de dados e desenvolvimento backend. Tenho interesse em transformar dados em insights por meio de análise exploratória, modelagem e visualização com Power BI.
+Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe, com foco em análise de dados e desenvolvimento backend. Tenho interesse em transformar dados em insights por meio de análise exploratória, modelagem de dados, pipelines ETL e visualização com Power BI.
 
-Possuo experiência com manipulação de dados, criação de dashboards, definição de métricas e uso de DAX para análise de indicadores. Também desenvolvo aplicações backend utilizando Node.js e TypeScript, integrando APIs e banco de dados.
+Possuo experiência com manipulação de dados, criação de dashboards, definição de métricas, consultas SQL e uso de DAX para análise de indicadores. Também desenvolvo aplicações backend utilizando Node.js e TypeScript, integrando APIs e bancos de dados.
 
-Busco oportunidades de estágio em **Análise de Dados** e **Desenvolvimento Backend**.
+Busco oportunidades de estágio em **Análise de Dados**, **Engenharia de Dados** e **Desenvolvimento Backend**.
 
 ---
 
 ### 🧠 Data Skills
-- Análise Exploratória de Dados (EDA)  
-- SQL (consultas, joins, agregações)  
-- Python para análise de dados (Pandas, NumPy)  
-- ETL (Extração, Transformação e Carga de dados)  
-- Modelagem de Dados  
-- Criação de Dashboards  
-- DAX (Data Analysis Expressions)  
-- Definição de KPIs  
+
+- Análise Exploratória de Dados (EDA)
+- SQL (consultas, joins, agregações)
+- Python para análise de dados (Pandas, NumPy)
+- ETL (Extração, Transformação e Carga de dados)
+- Consumo de APIs para coleta de dados
+- Modelagem de Dados
+- PostgreSQL
+- Criação de Dashboards
+- DAX (Data Analysis Expressions)
+- Definição de KPIs
 
 ---
 
 ### 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,nestjs,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,js,html,css,nodejs,ts,nestjs,react,next)](https://skillicons.dev)
 
 ---
 
@@ -53,67 +56,68 @@ Busco oportunidades de estágio em **Análise de Dados** e **Desenvolvimento Bac
 
 ---
 
+- [**Valorant Analytics Pipeline**](https://github.com/RyllerF/valorant-pipeline)
+
+  Pipeline ETL desenvolvido com dados públicos da API do Valorant, coletando informações de agentes, mapas e armas para estruturar uma base analítica em PostgreSQL e gerar consultas SQL orientadas à análise.
+
+  **Destaques do projeto:**
+  - Consumo de API pública com Python e `requests`
+  - Salvamento dos dados brutos em JSON para rastreabilidade
+  - Transformação dos dados com Pandas em tabelas tratadas
+  - Modelagem inicial no PostgreSQL com tabelas para agentes, mapas e armas
+  - Carga automatizada dos dados via SQLAlchemy
+  - Consultas SQL para análise de agentes por função, mapas disponíveis e armas por categoria
+
+  **Perguntas respondidas:**  
+  Quantos agentes existem por função · Quais agentes são jogáveis · Quais mapas estão disponíveis · Quantas armas existem por categoria · Quais armas possuem custo no shop
+
+  **Técnicas aplicadas:**  
+  Consumo de API, ETL, modelagem relacional, PostgreSQL, SQL Analytics, organização de pipeline
+
+  **Tecnologias:** Python, Requests, Pandas, SQLAlchemy, PostgreSQL, SQL, pgAdmin
+
+---
+
 - [**Dashboard de Marketing (Power BI)**](https://github.com/RyllerF/dashboard-marketing)
 
   Análise de campanhas de marketing com foco em conversão, segmentação de clientes e comportamento de consumo. Projeto orientado à geração de insights para tomada de decisão.
 
   **Destaques do projeto:**
-  - Análise de conversão de campanhas  
-  - Segmentação por perfil demográfico (renda, estado civil, filhos)  
-  - Relação entre renda e gasto  
-  - Análise por canais de compra e países  
+  - Análise de conversão de campanhas
+  - Segmentação por perfil demográfico (renda, estado civil, filhos)
+  - Relação entre renda e gasto
+  - Análise por canais de compra e países
 
   **Técnicas aplicadas:**  
-  EDA, modelagem de dados, criação de KPIs e dashboards interativos  
+  EDA, modelagem de dados, criação de KPIs e dashboards interativos
 
-  **Tecnologias:** Power BI, DAX  
+  **Tecnologias:** Power BI, DAX
 
   <img src="./assets/VisaoCampanhas.png" alt="Preview do dashboard de marketing" width="400"/>
 
 ---
 
-- [**CRUD de usuários**](https://crud-gerenciar-de-usuarios-git-main-ryllerfonsecas-projects.vercel.app)  
+- [**CRUD de usuários**](https://crud-gerenciar-de-usuarios-git-main-ryllerfonsecas-projects.vercel.app)
 
   Aplicação fullstack com integração a banco de dados, explorando operações CRUD e estruturação de APIs.
 
   **Tecnologias:**  
-  Node.js, Express, Prisma ORM, MongoDB, React, Next.js, TypeScript  
+  Node.js, Express, Prisma ORM, MongoDB, React, Next.js, TypeScript
 
   <a href="https://crud-gerenciar-de-usuarios-git-main-ryllerfonsecas-projects.vercel.app">
-  <img src="./assets/crud.png" alt="Preview do crud" width="400"/>
-</a>
-
----
-
-- [**Agency-ai**](https://agency-ai-six-lovat.vercel.app/#)  
-
-  Landing page moderna com foco em experiência do usuário e performance.
-
-  **Tecnologias:** React, Tailwind CSS, Framer Motion  
-
-  <a href="https://agency-ai-six-lovat.vercel.app/#" target="_blank">
-  <img src="./assets/agency-ai.png" alt="Preview do agency-ai" width="400"/>
-</a>
-
----
-
-- [**ToDo App**](https://todo-app-self-ten-48.vercel.app)  
-
-  Aplicação de lista de tarefas com foco em usabilidade e interface.
-
-  **Tecnologias:** React, Tailwind CSS  
-
-  <a href="https://todo-app-self-ten-48.vercel.app" target="_blank">
-  <img src="./assets/Todo-app.png" alt="Preview do ToDo App" width="400"/>
+    <img src="./assets/crud.png" alt="Preview do crud" width="400"/>
   </a>
 
 ---
 
+
 ### 📊 Diferenciais
-- Capacidade de transformar dados em insights acionáveis  
-- Experiência prática com dashboards e análise de métricas  
-- Conhecimento em backend para integração com dados  
-- Perfil analítico com foco em tomada de decisão  
+
+- Capacidade de transformar dados em insights acionáveis
+- Experiência prática com pipelines ETL, dashboards e análise de métricas
+- Conhecimento em SQL, modelagem de dados e integração com bancos relacionais
+- Conhecimento em backend para consumo de APIs e integração com dados
+- Perfil analítico com foco em tomada de decisão
 
 ---
 
