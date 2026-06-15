@@ -2,6 +2,8 @@
 
 **`Data Analyst | SQL • Python • ETL | Backend Developer`**
 
+🌐 **[Portfólio](https://ryllerf.github.io)**
+
 Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe, com foco em análise de dados e desenvolvimento backend. Tenho interesse em transformar dados em insights por meio de análise exploratória, modelagem de dados, pipelines ETL e visualização com Power BI.
 
 Possuo experiência com manipulação de dados, criação de dashboards, definição de métricas, consultas SQL e uso de DAX para análise de indicadores. Também desenvolvo aplicações backend utilizando Node.js e TypeScript, integrando APIs e bancos de dados.
@@ -110,7 +112,6 @@ Busco oportunidades de estágio em **Análise de Dados**, **Engenharia de Dados*
 
 ---
 
-
 ### 📊 Diferenciais
 
 - Capacidade de transformar dados em insights acionáveis
@@ -123,5 +124,6 @@ Busco oportunidades de estágio em **Análise de Dados**, **Engenharia de Dados*
 
 ### Social
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-ryllerf.github.io-22d3ee?style=flat-square)](https://ryllerf.github.io)  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryller-fonseca-13164b223)  
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Ryller_)
